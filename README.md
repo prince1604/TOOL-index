@@ -12,9 +12,9 @@ Each tool is categorized for easy reference and practical use.
 
 | Tool Name |
 |-----------|
-| `1378) msfvenom                                        7402) gzip                                          13426) llvm-modextract-19` |
-| `1601) qmicli                                          7625) msfvenom                                      13649) xfce4-power-manager-settings` |
-| `1628) pdb3                                            7652) ibus                                          13676) msfpc` |
+| 1378) msfvenom                                        7402) gzip                                          13426) llvm-modextract-19` |
+| 1601) qmicli                                          7625) msfvenom                                      13649) xfce4-power-manager-settings` |
+| 1628) pdb3                                            7652) ibus                                          13676) msfpc` |
 | `1711) minikerberos-changepw                           7735) varlinkctl                                    13759) pymsfrpc.py` |
 | `1728) gendef                                          7752) upx                                           13776) exploitdb-papers` |
 | `1759) gr_plot_iq                                      7783) clang++-18                                    13807) exploitdb` |
