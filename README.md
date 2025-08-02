@@ -84,7 +84,7 @@ This document is perfect for:
 
 ## 📥 Download
 
-📄 [Download the Full PDF](./Kali_Tools_Reference_Index_FIXED.pdf)
+📄 [Download the Full PDF](https://github.com/prince1604/TOOL-index/blob/main/Tool-index.1604.pdf)
 
 > Or [host it as a GitHub Release](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases) for version control and visibility.
 
@@ -123,7 +123,7 @@ Have something to add?
 
 ---
 
-## 🏷 GitHub Tags (for SEO)
+## 🏷 GitHub Tags 
 
   #cybersecurity #pentesting #ethicalhacking #kali #reverseengineering #ctf #passwordcracking #iotsecurity #infosec #redteam #blueteam #bugbounty
   
