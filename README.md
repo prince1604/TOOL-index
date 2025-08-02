@@ -119,7 +119,7 @@ Have something to add?
 - 🌍 Translate for local languages
 - 💬 Share with your cybersecurity community
 
-📌 Just open an [issue](https://github.com/your-repo/issues) or submit a [pull request](https://github.com/your-repo/pulls).
+📌 Just open an [issue](https://github.com/prince1604/TOOL-index.git/issues) or submit a [pull request](https://github.com/prince1604/TOOL-index.gitpulls).
 
 ---
 
